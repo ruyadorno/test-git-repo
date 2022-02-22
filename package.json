@@ -1,0 +1,10 @@
+{
+  "name": "test-git-repo",
+  "version": "1.0.0",
+  "scripts": {
+    "prepare": "node -p 'Object.keys(require(\"abbrev\")(\"fo\", \"foo\", \"fool\")).join(\"-\")' > foo"
+  },
+  "devDependencies": {
+    "abbrev": "^1.1.1"
+  }
+}
