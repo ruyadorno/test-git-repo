@@ -5,7 +5,6 @@
     "prepare": "node -p 'Object.keys(require(\"abbrev\")(\"fo\", \"foo\", \"fool\")).join(\"-\")' > foo"
   },
   "devDependencies": {
-    "@ruyadorno/postinstall-failure": "^1.0.0",
     "abbrev": "^1.1.1",
     "node-sass": "^7.0.1"
   }
