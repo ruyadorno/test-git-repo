@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "devDependencies": {
     "@ruyadorno/postinstall-failure": "^1.0.0",
-    "abbrev": "^1.1.1"
+    "abbrev": "^1.1.1",
+    "node-sass": "^7.0.1"
   }
 }
